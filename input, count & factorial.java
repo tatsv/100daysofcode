@@ -10,11 +10,10 @@ public class Main {
             end= scanner.nextInt();
             if(start<end){
                 break;
-            } else{
+            } else {
                 System.out.println("Invalid Number");
 
             }
-        
         } 
         int count = countNumbers(start,end);
         int sum = sumNumbers(start, end);

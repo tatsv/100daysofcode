@@ -4,7 +4,20 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "ReadUserInput",
+            "request": "launch",
+            "mainClass": "ReadUserInput",
+            "projectName": "daysofcode"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "daysofcode"
+        },
         {
             "name": "Attach to Chrome",
             "port": 9222,
