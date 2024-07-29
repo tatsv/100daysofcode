@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BasicArithmetic",
+            "request": "launch",
+            "mainClass": "BasicArithmetic",
+            "projectName": "daysofcode"
+        },
+        {
+            "type": "java",
             "name": "NumberPyramid",
             "request": "launch",
             "mainClass": "NumberPyramid",
