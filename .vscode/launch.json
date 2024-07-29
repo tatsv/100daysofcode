@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "daysofcode"
+        },
+        {
+            "type": "java",
             "name": "Launch with Arguments Prompt",
             "request": "launch",
             "mainClass": "",

@@ -6,7 +6,7 @@ public class ReadUserInput {
     Scanner scanner= new Scanner(System.in);
     // read and print a string
     System.out.print("Enter a string:");
-    String userInputString=scanner.nextLine();
+    String userInputString = scanner.nextLine();
     System.out.println("You have entered a string:" + userInputString);
 
     //read and print an integer
